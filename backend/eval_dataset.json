@@ -1,0 +1,97 @@
+[
+    {
+        "user_input": "What does Lapcom Solutions specialize in?",
+        "reference": "Lapcom Solutions specializes in component-level hardware troubleshooting, laptop repairs, and computer performance upgrades.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Where is Lapcom Solutions located?",
+        "reference": "Lapcom Solutions is located in Kolkata, West Bengal, India.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "What are the working days of Lapcom Solutions?",
+        "reference": "The listed working days are Monday to Saturday.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "What are the working hours?",
+        "reference": "The listed working hours are 10:00 AM to 8:00 PM, Monday to Saturday.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions provide motherboard repair?",
+        "reference": "Yes. It provides motherboard diagnostics and chip-level repair.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "What motherboard problems are mentioned?",
+        "reference": "The listed issues include dead motherboards, short circuits, chipset-related faults, and power IC issues.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions replace laptop screens?",
+        "reference": "Yes. It provides replacement services for cracked, flickering, or broken laptop LED/LCD screens.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Which laptop brands are listed for screen replacement?",
+        "reference": "The listed brands are Dell, HP, Lenovo, Asus, Acer, and Apple MacBook.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Can Lapcom Solutions upgrade an HDD to an SSD?",
+        "reference": "Yes. It provides upgrades from mechanical HDDs to SATA or NVMe SSDs, subject to device compatibility.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions provide RAM upgrades?",
+        "reference": "Yes. RAM expansion is listed as a hardware upgrade service to improve multitasking performance.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Will an NVMe SSD work in every laptop?",
+        "reference": "No such universal compatibility is stated. Compatibility should be checked for the specific computer.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions offer data recovery?",
+        "reference": "Yes. It provides data recovery services for deleted or corrupted files from damaged hard drives and solid-state storage devices.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions guarantee recovery of every file?",
+        "reference": "No. The knowledge base does not specify a guaranteed recovery rate. Recovery depends on the condition of the storage device.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "What maintenance services are available?",
+        "reference": "The listed maintenance services include internal thermal cleaning, cooling-fan replacement, and thermal-paste reapplication.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Can Lapcom Solutions help with an overheating laptop?",
+        "reference": "Its listed maintenance services, including internal thermal cleaning, cooling-fan replacement, and thermal-paste reapplication, are intended to address overheating symptoms.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions install Windows?",
+        "reference": "Yes. Windows operating-system installation is among its listed software services.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions configure drivers?",
+        "reference": "Yes. Driver configuration is included in its listed operating-system and software support.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions remove viruses and malware?",
+        "reference": "Yes. Virus and malware removal is listed as a software service.",
+        "category": "answerable"
+    },
+    {
+        "user_input": "Does Lapcom Solutions troubleshoot software problems?",
+        "reference": "Yes. General software troubleshooting is listed as a service.",
+        "category": "answerable"
+    }
+]
